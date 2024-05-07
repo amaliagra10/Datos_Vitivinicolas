@@ -7,5 +7,6 @@ El sistema además brinda información de la distribución de la superficie segu
 
 En el archivo Superficie se puede encontrar las tablas y graficos correspondientes.
 
-Una de las grandes dificultades que se tuvo para desarrollar el sistema es que los dataset no son homogeneos, y en medio del desarrollo se tuvo que proceder a generar instancias
-de homogenización de los datos para que estos puedan ser comparables.
+Una de las grandes dificultades que se tuvo para desarrollar el sistema es que los dataset no son homogeneos, y en medio del desarrollo se tuvo que proceder a generar instancias de homogenización de los datos para que estos puedan ser comparables.
+
+Para desarrollar el análisis se utlizaron 4 dataset, con mas de 90.000 filas y 20 columnas cada uno.
